@@ -1,0 +1,100 @@
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+c:\users\student\documents\visual studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.pdb
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.csprojAssemblyReference.cache
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\App.g.cs
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.pdb
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.cache
+C:\Users\wtsi5\source\repos\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.CoreCompileInputs.cache
+F:\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+F:\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+F:\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.csprojAssemblyReference.cache
+F:\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+F:\DocViewer\DocViewer\obj\Debug\App.g.cs
+F:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+F:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+F:\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.cache
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.CoreCompileInputs.cache
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+F:\DocViewer\DocViewer\obj\Debug\DocViewer.pdb
+E:\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+E:\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+E:\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.csprojResolveAssemblyReference.cache
+E:\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+E:\DocViewer\DocViewer\obj\Debug\App.g.cs
+E:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+E:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+E:\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.Cache
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+E:\DocViewer\DocViewer\obj\Debug\DocViewer.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewer.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\DocViewer\DocViewer\obj\Debug\SliderWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2017\Projects\DocViewer\DocViewer\obj\Debug\SliderWindow.baml
+C:\Users\student\Documents\Visual Studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2017\Projects\DocViewer\DocViewer\obj\Debug\DocViewWindow.baml
+G:\Backup\2019\0117\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+G:\Backup\2019\0117\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+G:\Backup\2019\0117\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.csprojAssemblyReference.cache
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewWindow.g.cs
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\SliderWindow.g.cs
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\App.g.cs
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewWindow.baml
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\SliderWindow.baml
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.cache
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.CoreCompileInputs.cache
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+G:\Backup\2019\0117\DocViewer\DocViewer\obj\Debug\DocViewer.pdb
+G:\DocViewer\DocViewer\bin\Debug\DocViewer.exe.config
+G:\DocViewer\DocViewer\bin\Debug\DocViewer.exe
+G:\DocViewer\DocViewer\bin\Debug\DocViewer.pdb
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.csprojAssemblyReference.cache
+G:\DocViewer\DocViewer\obj\Debug\DocViewWindow.g.cs
+G:\DocViewer\DocViewer\obj\Debug\MainWindow.g.cs
+G:\DocViewer\DocViewer\obj\Debug\SliderWindow.g.cs
+G:\DocViewer\DocViewer\obj\Debug\App.g.cs
+G:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.cache
+G:\DocViewer\DocViewer\obj\Debug\DocViewer_MarkupCompile.lref
+G:\DocViewer\DocViewer\obj\Debug\DocViewWindow.baml
+G:\DocViewer\DocViewer\obj\Debug\MainWindow.baml
+G:\DocViewer\DocViewer\obj\Debug\SliderWindow.baml
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.g.resources
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.Properties.Resources.resources
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.GenerateResource.cache
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.csproj.CoreCompileInputs.cache
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.exe
+G:\DocViewer\DocViewer\obj\Debug\DocViewer.pdb

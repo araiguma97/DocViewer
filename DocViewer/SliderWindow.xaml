@@ -1,0 +1,18 @@
+﻿<Window x:Class="DocViewer.SliderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DocViewer"
+        mc:Ignorable="d"
+        Title="閾値選択" Height="120" Width="300">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal">
+                <Slider x:Name="slider" Width="240" Maximum="1" Minimum="0" LargeChange="0.05" TickPlacement="BottomRight" TickFrequency="0.05" IsSnapToTickEnabled="true" />
+                <TextBlock Text="{Binding Value, ElementName=slider}" />
+            </StackPanel>
+            <Button Content="決定" Width="50" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
